@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/home/krishnan/.android/build-cache/282626a53ccfcb58815c4a179553164057a49f11/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/home/krishnan/.android/build-cache/282626a53ccfcb58815c4a179553164057a49f11/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/home/krishnan/.android/build-cache/282626a53ccfcb58815c4a179553164057a49f11/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/home/krishnan/.android/build-cache/282626a53ccfcb58815c4a179553164057a49f11/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]
