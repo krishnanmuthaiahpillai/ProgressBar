@@ -97,3 +97,23 @@ circleProgressBar.setOnProgressViewListener(new OnProgressViewListener() {
   
 #Library
   Library is available here: https://github.com/natasam/android-progressviewslib
+  
+ Add it in your root build.gradle at the end of repositories:
+
+  	allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+            
+ Add the dependency
+ 
+ 	dependencies {
+	        compile 'com.github.krishnanmuthaiahpillai:ProgressBar:V1.0'
+	}
+
+  
+  
+  
+            
