@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
         "map": [
             {

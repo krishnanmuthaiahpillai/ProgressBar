@@ -21,7 +21,7 @@
 
 <resources>
     <color name="shader_color">#9b9b9b</color>
-    <color name="progress_color">#1DE9B6</color>
+    <color name="progress_color">#03a9b5</color>
     <color name="background_color">#B0BEC5</color>
 
 </resources>

@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DemoProgressViewsLibApp.iml" filepath="$PROJECT_DIR$/DemoProgressViewsLibApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgressBar.iml" filepath="$PROJECT_DIR$/ProgressBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressviewslib/progressviewslib.iml" filepath="$PROJECT_DIR$/progressviewslib/progressviewslib.iml" />
       <module fileurl="file://$PROJECT_DIR$/progressviewslib/progressviewslib.iml" filepath="$PROJECT_DIR$/progressviewslib/progressviewslib.iml" />
     </modules>
   </component>

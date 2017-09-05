@@ -1,11 +1,27 @@
 [
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_password_eye.xml",
         "source": "/home/krishnan/.android/build-cache/282626a53ccfcb58815c4a179553164057a49f11/output/res/drawable-v21/design_password_eye.xml"
     },
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/7a4bb8bdcdd8f6c7e31332dc36c06ef3e22f242e/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/7a4bb8bdcdd8f6c7e31332dc36c06ef3e22f242e/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_hide_password.xml",
@@ -16,6 +32,14 @@
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/7a4bb8bdcdd8f6c7e31332dc36c06ef3e22f242e/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/7a4bb8bdcdd8f6c7e31332dc36c06ef3e22f242e/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/avd_show_password.xml",
         "source": "/home/krishnan/.android/build-cache/282626a53ccfcb58815c4a179553164057a49f11/output/res/drawable-v21/avd_show_password.xml"
     },
@@ -24,11 +48,19 @@
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/design_bottom_navigation_item_background.xml",
         "source": "/home/krishnan/.android/build-cache/282626a53ccfcb58815c4a179553164057a49f11/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/notification_action_background.xml",
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/drawable-v21/abc_edit_text_material.xml"
     }
 ]

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/layout-v11/notification_template_big_media.xml"
     },
@@ -12,6 +16,10 @@
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/layout-v11/notification_template_big_media_narrow.xml"
     },
@@ -20,7 +28,23 @@
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/layout-v11/notification_media_action.xml"
     },
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/layout-v11/notification_media_action.xml"
     }
 ]

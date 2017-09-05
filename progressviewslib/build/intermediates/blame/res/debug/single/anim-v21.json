@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/7a4bb8bdcdd8f6c7e31332dc36c06ef3e22f242e/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/7a4bb8bdcdd8f6c7e31332dc36c06ef3e22f242e/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
         "source": "/home/krishnan/.android/build-cache/282626a53ccfcb58815c4a179553164057a49f11/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
     },

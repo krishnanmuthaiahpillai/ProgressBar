@@ -2,5 +2,9 @@
     {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/layout-v16/notification_template_custom_big.xml"
     }
 ]

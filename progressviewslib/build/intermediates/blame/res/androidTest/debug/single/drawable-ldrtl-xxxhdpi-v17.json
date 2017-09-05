@@ -4,11 +4,23 @@
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "/home/krishnan/Desktop/DemoProgressViewsLibApp/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
         "source": "/home/krishnan/.android/build-cache/63ba71b69f0bad6db33c09a6c9bd4911a17949e1/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/arsv-macmini/Desktop/ProgressBar/progressviewslib/build/intermediates/res/merged/androidTest/debug/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/arsv-macmini/.android/build-cache/8cd1ec49973a0222ddc09ce38d91ee53a5a43bd2/output/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     }
 ]
